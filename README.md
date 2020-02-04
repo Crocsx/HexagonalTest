@@ -1,2 +1,0 @@
-# HexagonalTest
-Created with CodeSandbox
